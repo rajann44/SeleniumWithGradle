@@ -1,0 +1,4 @@
+testScripts/VerifyAmazonFlipkart.java
+ testScripts.VerifyAmazonFlipkart
+testScripts/VerifyBingGoogle.java
+ testScripts.VerifyBingGoogle

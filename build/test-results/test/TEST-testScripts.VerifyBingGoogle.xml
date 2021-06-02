@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testScripts.VerifyBingGoogle" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-30T14:25:16" hostname="Rajans-MacBook-Air.local" time="3.652">
-  <properties/>
-  <testcase name="justGoogle" classname="testScripts.VerifyBingGoogle" time="3.652"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

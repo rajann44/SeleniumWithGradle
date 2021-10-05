@@ -12,7 +12,7 @@ public class VerifyBingGoogle {
     public void justGoogle(){
 
         genericPage.navigateToTheURL("https://google.com/");
-        genericPage.sleepFor(2);
+        genericPage.sleepFor(3);
         genericPage.refreshBrowser();
 
     }

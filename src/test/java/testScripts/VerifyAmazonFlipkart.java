@@ -21,7 +21,7 @@ public class VerifyAmazonFlipkart {
     public void justFlipkart(){
 
         genericPage.navigateToTheURL("https://flipkart.com/");
-        genericPage.sleepFor(2);
+        genericPage.sleepFor(3);
         genericPage.refreshBrowser();
 
     }
